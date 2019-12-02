@@ -1,3 +1,18 @@
-/*.iml
-/.idea
-/target
+# Maven #
+target/
+target
+
+# IDEA #
+.idea
+log
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+*.project
+*.prefs
+*.classpath
+*.gitignore
