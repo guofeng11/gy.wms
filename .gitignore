@@ -16,3 +16,4 @@ log
 *.prefs
 *.classpath
 *.gitignore
+/wms-core/target
